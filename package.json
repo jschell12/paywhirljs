@@ -3,10 +3,12 @@
     "name": "Josh Schell",
     "email": "jschell12@gmail.com"
   },
-  "contributors": [{
-    "name": "Josh Schell",
-    "email": "jschell12@gmail.com"
-  }],
+  "contributors": [
+    {
+      "name": "Josh Schell",
+      "email": "jschell12@gmail.com"
+    }
+  ],
   "dependencies": {
     "query-string": "^5.0.0",
     "request": "^2.81.0"
@@ -21,10 +23,12 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "maintainers": [{
-    "name": "Josh Schell",
-    "email": "jschell12@gmail.com"
-  }],
+  "maintainers": [
+    {
+      "name": "Josh Schell",
+      "email": "jschell12@gmail.com"
+    }
+  ],
   "name": "paywhirljs",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
@@ -32,5 +36,5 @@
     "type": "git",
     "url": "git://github.com/jschell12/paywhirljs.git"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
