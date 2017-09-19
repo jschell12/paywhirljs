@@ -1,26 +1,12 @@
 {
-  "_options": {
-    "protocol": "https:",
-    "host": "api.paywhirl.com",
-    "port": 443,
-    "path": "",
-    "method": "",
-    "headers": {
-      "Content-type": "application/json",
-      "api_key": "",
-      "api_secret": ""
-    }
-  },
   "author": {
     "name": "Josh Schell",
     "email": "jschell12@gmail.com"
   },
-  "contributors": [
-    {
-      "name": "Josh Schell",
-      "email": "jschell12@gmail.com"
-    }
-  ],
+  "contributors": [{
+    "name": "Josh Schell",
+    "email": "jschell12@gmail.com"
+  }],
   "dependencies": {
     "query-string": "^5.0.0",
     "request": "^2.81.0"
@@ -35,12 +21,10 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "maintainers": [
-    {
-      "name": "Josh Schell",
-      "email": "jschell12@gmail.com"
-    }
-  ],
+  "maintainers": [{
+    "name": "Josh Schell",
+    "email": "jschell12@gmail.com"
+  }],
   "name": "paywhirljs",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
