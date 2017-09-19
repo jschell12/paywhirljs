@@ -7,8 +7,8 @@
     "method": "",
     "headers": {
       "Content-type": "application/json",
-      "api_key": "pwpk_592f39784524d592f3978452f2",
-      "api_secret": "pwpsk_592f3978453a3592f397845447"
+      "api_key": "",
+      "api_secret": ""
     }
   },
   "author": {
