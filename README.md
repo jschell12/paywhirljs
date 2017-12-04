@@ -13,8 +13,8 @@ This package is revamping/refactoring of the [nodejs PayWhirl API SDK](https://a
 
 ```javascript
 const paywhirl = require('paywhirljs')({
-	api_key: 'pwpk_12345678912345678912345678',
-	api_secret: 'pwpk_123456789123456789123456789'
+	api_key: 'pwpk_##########################',
+	api_secret: 'pwpk_###########################'
 });
 
 // Get Customer by id: 226713 
